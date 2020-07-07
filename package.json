@@ -1,0 +1,14 @@
+{
+  "name": "webslide",
+  "version": "1.0.0",
+  "description": "for SPPA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilfat Izzat Pratama",
+  "license": "MIT",
+  "dependencies": {
+    "animate.css": "^4.1.0"
+  }
+}
