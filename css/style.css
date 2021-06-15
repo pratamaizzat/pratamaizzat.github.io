@@ -10,3 +10,56 @@
 .scope {
   color: #ffffff;
 }
+
+.overlay {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.7)
+}
+
+.title__text {
+  font-size: 8rem;
+  line-height: 1.2;
+  margin-bottom: 2rem;
+  color: white;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.author__presentation {
+  margin-top: 4rem;
+  font-weight: 600;
+  font-size: 2.5rem;
+  color: white;
+  background-color: green;
+}
+
+.tag {
+  background-color: green;
+  border-radius: 8px;
+  color: white;
+  font-weight: 700;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+.link__prep {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: white !important;
+  font-weight: 500 !important;
+  margin-top: 1rem !important;
+  font-size: 2rem !important;
+  padding: 0.5rem;
+}
+
+.title__text2 {
+  font-size: 4rem;
+  line-height: 1.2;
+  margin-bottom: 2rem;
+  color: white;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 4px #000000;
+}
